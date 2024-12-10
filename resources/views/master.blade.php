@@ -27,7 +27,9 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-  @vite(['resources/css/app.css', 'resources/js/app.js'])
+  @vite(['resources/css/style.css', 'resources/js/main.js'])
+
+
   <!-- =======================================================
   * Template Name: Personal
   * Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
