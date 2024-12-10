@@ -3,7 +3,7 @@ import laravel from 'laravel-vite-plugin';
 
 export default defineConfig({
     build: {
-        outDir: 'public', // Specifies where the build output should go
+        outDir: 'public',  // Specify your output directory (e.g., 'dist' or 'public')
         assetsDir: 'assets', // Optionally specify a subdirectory for assets
     },
     plugins: [
